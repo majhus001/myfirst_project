@@ -1,5 +1,5 @@
 
-			Name           : Majid
+			Name           : Majid husain
 			Department     : IT
 			Roll no        : 42
 			City           : coimbatore
