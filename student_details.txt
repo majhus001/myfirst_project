@@ -1,5 +1,5 @@
 
-			Name           : Sam gift
+			Name           : Majid
 			Department     : IT
 			Roll no        : 42
 			City           : coimbatore
